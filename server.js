@@ -64,7 +64,7 @@ if(!message.guild) return;
 // Set the bot's online/idle/dnd/invisible status
 client.on("ready", () => {
     client.user.setStatus("online");
-    console.log("automodv12 beta is ready join support server https://dsc.gg/kmdevs")
+    console.log("automodv12 beta is ready join support server https://dsc.gg/mrdevil")
 });
 require('http').createServer((req, res) => res.end('cwk music is alive!')).listen(3000)
 
@@ -88,4 +88,4 @@ new Player(client, {
 });
 
 
-client.login(process.env.TOKEN);
+client.login("TOKEN HERE");
