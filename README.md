@@ -21,7 +21,7 @@ Repl: [![Run on Repl.it](https://repl.it/badge/github/Khanmanan/music-bot-v1)](h
 
 ### Support server
 
-<a href="https://discord.gg/u6CCVqEa6d"><img src="http://invidget.switchblade.xyz/u6CCVqEa6dJ"/></a>
+<a href="https://discord.gg/u6CCVqEa6d"><img src="https://cdn.discordapp.com/attachments/846211241508470814/846368711400489010/aas.PNG"/></a>
 
    <div align="left"><img src="https://cdn.discordapp.com/attachments/839814357626257428/842030848173539348/standard_3.gif"></div>
-<a href="https://discord.gg/u6CCVqEa6dJ"><img src="http://invidget.switchblade.xyz/u6CCVqEa6dJ"/></a>
+<a href="https://discord.gg/u6CCVqEa6dJ"><img src="https://cdn.discordapp.com/attachments/846211241508470814/846368711400489010/aas.PNG"/></a>
