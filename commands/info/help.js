@@ -62,7 +62,7 @@ module.exports = {
         .addField('volume', `Set the volume of the bot in the vc`, true)
         .addField('nowplaying', `Gives info about the song that its being played and the progress of it`, true)
         .setTimestamp()
-        .setFooter(`madr by cwkhan 😎 `)
+        .setFooter(`Made By Devil 😎 `)
         message.channel.send(embed1)
     }
 }
