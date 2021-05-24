@@ -23,5 +23,5 @@ Repl: [![Run on Repl.it](https://repl.it/badge/github/Khanmanan/music-bot-v1)](h
 
 <a href="https://discord.gg/u6CCVqEa6d"><img src="https://cdn.discordapp.com/attachments/846211241508470814/846368711400489010/aas.PNG"/></a>
 
-   <div align="left"><img src="https://cdn.discordapp.com/attachments/846211241508470814/846368711400489010/aas.PNGf"></div>
+   <div align="left"><img src="https://cdn.discordapp.com/attachments/846211241508470814/846368711400489010/aas.PNG"></div>
 <a href="https://discord.gg/u6CCVqEa6dJ"><img src="https://cdn.discordapp.com/attachments/846211241508470814/846368711400489010/aas.PNG"/></a>
