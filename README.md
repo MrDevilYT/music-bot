@@ -8,7 +8,7 @@
 
 ### 💨 Run the project's
 
-Repl: [![Run on Repl.it](https://repl.it/badge/github/MrDevilYT/music-bot)](https://replit.com/@RuhaimOP1/MusicBot-Mr-Devil)
+[![Run on Repl.it](https://repl.it/badge/github/MrDevilYT/music-bot)](https://replit.com/@RuhaimOP1/MusicBot-Mr-Devil)
 
 
 <h1> © IF u want use the code star ✨ the repo and subscribe our YouTube cahnnel Join our support server and goto #submit-music-bot cahnnel ;) </h1>
