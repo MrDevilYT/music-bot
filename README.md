@@ -11,9 +11,6 @@
 [![Run on Repl.it](https://repl.it/badge/github/MrDevilYT/music-bot)](https://replit.com/@RuhaimOP1/MusicBot-Mr-Devil)
 
 
-<h1> © IF u want use the code star ✨ the repo and subscribe our YouTube cahnnel Join our support server and goto #submit-music-bot cahnnel ;) </h1>
-<h1> and Join our support server add your bot to use music emojis </h1>
-
 ### INVITE Bot and Test [click here](https://discord.com/oauth2/authorize?client_id=757223328762036224&permissions=104331585&scope=bot)
 
  
